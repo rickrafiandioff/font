@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'UthmanicHafs-V22';
+  font-display: swap;
+  src: local('UthmanicHafs-V22'),
+       url('UthmanicHafs_V22.ttf') format('truetype'),
+       url('UthmanicHafs_V22.woff') format('woff'),
+       url('UthmanicHafs_V22.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'UthmanicHafs-V22', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
