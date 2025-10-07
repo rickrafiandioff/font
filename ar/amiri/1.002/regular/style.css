@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Amiri-Regular';
+  font-display: swap;
+  src: local('Amiri-Regular'),
+       url('Amiri-Regular.ttf') format('truetype'),
+       url('Amiri-Regular.woff') format('woff'),
+       url('Amiri-Regular.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'Amiri-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
