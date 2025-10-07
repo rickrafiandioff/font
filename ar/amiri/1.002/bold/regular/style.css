@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Amiri-Bold';
+  font-display: swap;
+  src: local('Amiri-Bold'),
+       url('Amiri-Bold.ttf') format('truetype'),
+       url('Amiri-Bold.woff') format('woff'),
+       url('Amiri-Bold.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'Amiri-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
