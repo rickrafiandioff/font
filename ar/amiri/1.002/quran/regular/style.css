@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'AmiriQuran';
+  font-display: swap;
+  src: local('AmiriQuran'),
+       url('AmiriQuran.ttf') format('truetype'),
+       url('AmiriQuran.woff') format('woff'),
+       url('AmiriQuran.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'AmiriQuran', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
