@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'UthmanTSVer1';
+  font-display: swap;
+  src: local('UthmanTSVer1'),
+       url('UthmanTSVer1.ttf') format('truetype'),
+       url('UthmanTSVer1.woff') format('woff'),
+       url('UthmanTSVer1.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'UthmanTSVer1', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
